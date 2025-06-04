@@ -1,4 +1,4 @@
-# Assignment Two  
+# Assignment 2  
 This repository contains solutions for two tasks from Module 3: Control Structures in Python. The program is written in two Python files, Task 1 and Task 2.
 
 ## Task 1: Check if a Number is Even or Odd  
